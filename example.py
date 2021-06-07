@@ -5,3 +5,6 @@ def divide(a,b):
   return a / b
 
 ## Yeah so I think it works
+
+def subtract(a,b):
+  return a - b
