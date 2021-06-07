@@ -10,3 +10,6 @@ def divide(a,b):
 
 ## Yeah so I think it works
 
+def subtract(a,b):
+  return a - b
+
